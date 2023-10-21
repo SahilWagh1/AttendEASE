@@ -1,5 +1,6 @@
-# Face Detection Attendance System with Admin Panel
-This project is an AI-based attendance system that utilizes face detection and recognition techniques to track attendance. It is built using Python and incorporates an admin panel with login functionality. The admin can add or delete photos of employees or students in the system.
+# AttendEASE - Face Detection Attendance System with Admin Panel
+
+AttendEASE is an AI-based attendance system that leverages face detection and recognition techniques to seamlessly track attendance. This project is built using Python and features an admin panel with login functionality. Administrators can easily manage and maintain the system by adding or deleting photos of employees or students.
 
 ## Dependencies
 To run this project, you need to have the following dependencies installed:
@@ -12,7 +13,9 @@ To run this project, you need to have the following dependencies installed:
 
 You can install these dependencies using pip by running the following command:
 
-```pip install opencv-python numpy face_recognition pygame tkinter```
+```bash
+pip install opencv-python numpy face_recognition pygame tkinter
+```
 
 ## Getting Started
 
@@ -22,10 +25,10 @@ You can install these dependencies using pip by running the following command:
 
 ## Usage
 
-1. Run the **'main.py'** file to start the attendance system.
-2. The system will use your webcam to detect and recognize faces in real-time.
-3. If a recognized face is detected, the system will mark the attendance with the current date and time.
-4. The attendance details will be stored in a CSV file named **'attendance.csv'**.
+1. Run the **'main.py'** file to start the AttendEASE attendance system.
+2. The system will utilize your webcam to detect and recognize faces in real-time.
+3. When a recognized face is detected, the system will mark the attendance with the current date and time.
+4. Attendance details will be stored in a CSV file named **'attendance.csv'**.
 5. To access the admin panel, click on the "Admin" button.
 6. You will be prompted to enter your login credentials.
 7. Once logged in, you can add or delete photos of employees or students.
