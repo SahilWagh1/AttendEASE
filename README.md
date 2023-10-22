@@ -1,5 +1,5 @@
 # AttendEASE - Face Detection Attendance System with Admin Panel
-
+![AttendEASE Logo](https://github.com/SahilWagh1/DeskMateAi/blob/24899f77e084a81b33ed7d8055c74c77834e9872/deskmateai-low-resolution-logo-transparent%20(1).png)
 AttendEASE is an AI-based attendance system that leverages face detection and recognition techniques to seamlessly track attendance. This project is built using Python and features an admin panel with login functionality. Administrators can easily manage and maintain the system by adding or deleting photos of employees or students.
 
 ## Dependencies
